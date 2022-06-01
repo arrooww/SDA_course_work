@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1619786122 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\menu.c
+	"menu.h"
+
+1619543478 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\sorting.c
+	"sorting.h"
+
+1618253295 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\common.c
+	"common.h"
+
+1619798039 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\measurement.c
+	"Measurement.h"
+
+1618254483 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\v_measurement.c
+	"time.h"
+	"v_measurement.h"
+	<stdio.h>
+
+1619546342 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\v_sorting.c
+	"fullfill.h"
+	"measurement.h"
+	"global.h"
+
+1619805510 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\main.c
+	"menu.h"
+
+1619782271 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\menu.h
+	"global.h"
+	"filling.h"
+	"sorting.h"
+	"measurement.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1618254598 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\common.h
+	<stdio.h>
+	<stdlib.h>
+	"v_measurement.h"
+
+1619786182 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\measurement.h
+	<time.h>
+
+1617900892 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\v_measurement.h
+
+1618253295 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\common.c
+	"common.h"
+
+1619544578 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\v_sorting.h
+	"math.h"
+	"measurement.h"
+	"fullfill.h"
+	"global.h"
+	"v_sorting.h"
+
+1618256633 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\output.h
+	"global.h"
+
+1618255514 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\measurmenttime.h
+
+1619809982 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\global.h
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1619543704 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\fullfill.h
+	"global.h"
+
+1619544374 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\fullfill.c
+	"fullfill.h"
+	<time.h>
+
+1619543819 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\global.c
+
+1619798039 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\sorting.h
+	"filling.h"
+	"measurement.h"
+	"global.h"
+	<math.h>
+
+1618343339 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\output.c
+
+1619546233 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\insertsort.c
+	"sorting.h"
+
+1619546342 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\select.c
+	"sorting.h"
+
+1619546342 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\shell.c
+	"sorting.h"
+
+1619804139 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\filling.c
+	"filling.h"
+
+1619786301 c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\filling.h
+	"global.h"
+	"sorting.h"
+
+1619804028 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\insert_sort.c
+	"sorting.h"
+
+1619803561 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\select_sort.c
+	"sorting.h"
+
+1619785031 source:c:\users\macbook pro\onedrive\Рабочий стол\sda_course_work\shell_sort.c
+	"sorting.h"
+
